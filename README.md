@@ -14,6 +14,12 @@ Users can personalize their profiles by editing their profile pictures through a
 Select from the Gallery: Users can choose a photo from their device's existing gallery of images.
 Take a Picture: Users can use the device's camera to instantly capture a new photo and set it as their profile picture.
 These options ensure users can easily and conveniently personalize their profiles.
+![image](https://github.com/user-attachments/assets/1edb24a6-5002-4828-aa76-4fe46491fcec)
+![image](https://github.com/user-attachments/assets/a5796aa7-4a54-40fd-80ff-9245e594efc8)
+![image](https://github.com/user-attachments/assets/2419afec-b45d-40fc-b44b-2ff55b87d03c)
+
+
+
 
 3. Multilingual Support
 The app supports multiple languages, making it accessible to a broader audience. At least two different languages are supported, enhancing usability for non-native speakers. This feature involves:
